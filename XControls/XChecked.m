@@ -1,6 +1,5 @@
 //
 //  XChecked.m
-//  XControls
 //
 //  Created by Tim Monroe on 12/8/13.
 //  Copyright (c) 2013 Tim Monroe. All rights reserved.
