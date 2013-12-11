@@ -61,6 +61,9 @@
 		74D9EB761847F1A50095D89F /* XStepper.m in Sources */ = {isa = PBXBuildFile; fileRef = 74D9EB6F1847F1A50095D89F /* XStepper.m */; };
 		74D9EB771847F1A50095D89F /* XSwitch.m in Sources */ = {isa = PBXBuildFile; fileRef = 74D9EB711847F1A50095D89F /* XSwitch.m */; };
 		74D9EB7A1848E3FC0095D89F /* CollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74D9EB781848E3FC0095D89F /* CollectionViewController.m */; };
+		74D9FDA81858FD4200928C8F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 74D9FDA41858FD4200928C8F /* README.md */; };
+		74D9FDA91858FD4200928C8F /* CHANGELOG.md in Resources */ = {isa = PBXBuildFile; fileRef = 74D9FDA51858FD4200928C8F /* CHANGELOG.md */; };
+		74D9FDAA1858FD4200928C8F /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 74D9FDA61858FD4200928C8F /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -149,6 +152,9 @@
 		74D9EB711847F1A50095D89F /* XSwitch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XSwitch.m; sourceTree = "<group>"; };
 		74D9EB781848E3FC0095D89F /* CollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionViewController.m; sourceTree = "<group>"; };
 		74D9EB791848E3FC0095D89F /* CollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionViewController.h; sourceTree = "<group>"; };
+		74D9FDA41858FD4200928C8F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		74D9FDA51858FD4200928C8F /* CHANGELOG.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CHANGELOG.md; sourceTree = "<group>"; };
+		74D9FDA61858FD4200928C8F /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -189,6 +195,9 @@
 		74D9EB011847ECB70095D89F = {
 			isa = PBXGroup;
 			children = (
+				74D9FDA41858FD4200928C8F /* README.md */,
+				74D9FDA51858FD4200928C8F /* CHANGELOG.md */,
+				74D9FDA61858FD4200928C8F /* LICENSE */,
 				74D9EB661847F1A50095D89F /* XControls */,
 				74D9EB421847ED490095D89F /* XCVCells */,
 				7434E846184D4645003FECEB /* XTVCells */,
@@ -399,6 +408,7 @@
 				74D9EB621847EF490095D89F /* Images.xcassets in Resources */,
 				74D944FA184E5F5200FF5FC4 /* StatusAway.png in Resources */,
 				741B8B451854D33100CBBAA2 /* Unchecked.png in Resources */,
+				74D9FDA91858FD4200928C8F /* CHANGELOG.md in Resources */,
 				74A8A61A184EB05E006359C2 /* JackNicklaus.png in Resources */,
 				74D944F3184E581500FF5FC4 /* WayneGretzky.png in Resources */,
 				748A86ED18566507005E6475 /* Main-iPad.storyboard in Resources */,
@@ -406,6 +416,7 @@
 				741B8B441854D33100CBBAA2 /* Checked.png in Resources */,
 				74CF42F01850C5D200F19DD2 /* LawrenceTaylor.png in Resources */,
 				74D944F9184E5F5200FF5FC4 /* StatusOffline.png in Resources */,
+				74D9FDA81858FD4200928C8F /* README.md in Resources */,
 				7482D28A1853BD6000F24064 /* Smiley.png in Resources */,
 				74D944F1184E53E600FF5FC4 /* BobbyOrr.png in Resources */,
 				7482D28B1853BD6000F24064 /* YinYang.png in Resources */,
@@ -417,6 +428,7 @@
 				74D9EB611847EF490095D89F /* InfoPlist.strings in Resources */,
 				74D944FB184E5F5200FF5FC4 /* StatusOnline.png in Resources */,
 				74A8A620184EC2BA006359C2 /* LebronJames.png in Resources */,
+				74D9FDAA1858FD4200928C8F /* LICENSE in Resources */,
 				74D9EB721847F1A50095D89F /* DefaultImage.png in Resources */,
 				74CF42F41850CBEE00F19DD2 /* BabeRuth.png in Resources */,
 				74D9EB651847EF490095D89F /* XControls-Info.plist in Resources */,
