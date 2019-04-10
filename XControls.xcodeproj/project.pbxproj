@@ -64,6 +64,7 @@
 		74D9FDA81858FD4200928C8F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 74D9FDA41858FD4200928C8F /* README.md */; };
 		74D9FDA91858FD4200928C8F /* CHANGELOG.md in Resources */ = {isa = PBXBuildFile; fileRef = 74D9FDA51858FD4200928C8F /* CHANGELOG.md */; };
 		74D9FDAA1858FD4200928C8F /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 74D9FDA61858FD4200928C8F /* LICENSE */; };
+		74D9FDAC1859181600928C8F /* XControls.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 74D9FDAB1859181600928C8F /* XControls.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -155,6 +156,7 @@
 		74D9FDA41858FD4200928C8F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		74D9FDA51858FD4200928C8F /* CHANGELOG.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CHANGELOG.md; sourceTree = "<group>"; };
 		74D9FDA61858FD4200928C8F /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		74D9FDAB1859181600928C8F /* XControls.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = XControls.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -195,6 +197,7 @@
 		74D9EB011847ECB70095D89F = {
 			isa = PBXGroup;
 			children = (
+				74D9FDAB1859181600928C8F /* XControls.podspec */,
 				74D9FDA41858FD4200928C8F /* README.md */,
 				74D9FDA51858FD4200928C8F /* CHANGELOG.md */,
 				74D9FDA61858FD4200928C8F /* LICENSE */,
@@ -416,6 +419,7 @@
 				741B8B441854D33100CBBAA2 /* Checked.png in Resources */,
 				74CF42F01850C5D200F19DD2 /* LawrenceTaylor.png in Resources */,
 				74D944F9184E5F5200FF5FC4 /* StatusOffline.png in Resources */,
+				74D9FDAC1859181600928C8F /* XControls.podspec in Resources */,
 				74D9FDA81858FD4200928C8F /* README.md in Resources */,
 				7482D28A1853BD6000F24064 /* Smiley.png in Resources */,
 				74D944F1184E53E600FF5FC4 /* BobbyOrr.png in Resources */,
